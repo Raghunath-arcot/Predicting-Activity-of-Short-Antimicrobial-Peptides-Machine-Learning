@@ -1,0 +1,5 @@
+Anaconda Prompt ->
+1. conda activate python_raghu
+2. cd B:\machine_Learning\7.predictingActivityofShortAntimicrobialPeptides
+3.jupyter notebook
+=============================================================
